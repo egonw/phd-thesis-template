@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*blx.bib
+thesis.pdf
+*.run.xml
+*.toc
