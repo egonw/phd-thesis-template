@@ -1,4 +1,4 @@
-# Manuscript Ryan Miller
+# PhD Thesis Template
 
 Thesis manuscript for editing
 
